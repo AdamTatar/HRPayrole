@@ -11,6 +11,11 @@
 			<p>Pracownicy</p>
 		</div> 
 	</a> 
+	<a href="/HRPayrole/payroll">
+		<div class="well">
+			<p>Lista płac</p>
+		</div> 
+	</a> 
 	<a href="/HRPayrole/department">
 		<div class="well">
 			<p>Departamenty</p>

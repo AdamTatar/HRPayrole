@@ -18,6 +18,7 @@
 	        <th>Pensja</th>
 	        <th>Premia</th>
 	        <th>Edycja</th>
+	        <th>Szczegóły</th>
 	      </tr>
 	    </thead>
 	    <tbody>
@@ -30,7 +31,8 @@
 			<td>${emp.department.name}</td>
 			<td>${emp.salary}</td>
 			<td>${emp.bonus}</td>
-			<td><a href="/HRPayrole/employee/edit/${emp.id}" class="btn btn-default">Edytuj</a></td>
+			<td><a href="/HRPayrole/employee/edit/${emp.id}" class="btn btn-success btn-sm">Edytuj</a></td>
+			<td><a href="/HRPayrole/employee/details/${emp.id}" class="btn btn-info btn-sm">Szczegóły</a></td>
 		  </tr>
 		</c:forEach>
 	    </tbody>

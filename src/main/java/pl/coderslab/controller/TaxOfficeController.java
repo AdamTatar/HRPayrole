@@ -1,5 +1,9 @@
 package pl.coderslab.controller;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.validation.Valid;
@@ -11,6 +15,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+import pl.coderslab.model.City;
 import pl.coderslab.model.TaxOffice;
 import pl.coderslab.repository.TaxOfficeRepository;
 
@@ -44,6 +49,29 @@ public class TaxOfficeController {
 		model.addAttribute("taxOffices", taxOffices);
 		return "taxOfficeList";
 	}
+	
+	
+	@RequestMapping(path = "/addFromFile",method = RequestMethod.GET)
+	public String addListOfTaxOfficesFromFile() {
+		try {
+			List<String> officesString = Files.readAllLines(Paths.get("taxOffices.txt"));
+			List<TaxOffice> taxOffices = new ArrayList<>();
+			for(Integer i = 0; i < officesString.size();i++) {
+				TaxOffice taxOffice = new TaxOffice();
+				taxOffice.setName(officesString.get(i));
+				taxOffices.add(taxOffice);
+			}
+			taxOfficeRepository.save(taxOffices);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return "taxOfficeList";
+	}
+	
+	
+	
+	
 }
 	
 

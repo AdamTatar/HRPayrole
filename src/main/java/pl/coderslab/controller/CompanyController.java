@@ -47,6 +47,17 @@ public class CompanyController {
 		return "companyAdd";
 	}
 
+	
+	
+	
+	@RequestMapping(path = "/WEB-INF/views/error.jsp", method = RequestMethod.GET)
+	public String errorPageDisplay() {
+		return "errorPage";
+	}
+
+	
+	
+	
 	@RequestMapping(path = "/add", method = RequestMethod.POST)
 	public String addCompanyPost(@Valid Company company, BindingResult result, Model model) {
 		if (result.hasErrors()) {
@@ -66,4 +77,7 @@ public class CompanyController {
 		model.addAttribute("company", company);
 		return "companyList";
 	}
+	
+	
+	
 }

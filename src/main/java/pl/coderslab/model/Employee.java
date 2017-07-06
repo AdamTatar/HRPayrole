@@ -55,6 +55,19 @@ public class Employee {
 	@ManyToOne
 	private Department department;
 
+	
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", firstName=" + firstName + ", secondName=" + secondName + ", lastName="
+				+ lastName + ", pesel=" + pesel + ", birthDate=" + birthDate + ", birthPlace=" + birthPlace
+				+ ", salary=" + salary + ", bonus=" + bonus + ", department=" + department + ", email=" + email
+				+ ", phoneNumber=" + phoneNumber + ", taxOffice=" + taxOffice + ", bankAccountNumber="
+				+ bankAccountNumber + ", dateOfEmployment=" + dateOfEmployment + ", dateOfRelese=" + dateOfRelese
+				+ ", address1=" + address1 + ", postalCode=" + postalCode + ", city=" + city + ", country=" + country
+				+ "]";
+	}
+
 	@Email
 	private String email;
 

@@ -82,7 +82,7 @@ public class EmployeeController {
 	}
 
 	@RequestMapping(method = RequestMethod.GET)
-	public String listAllCountries(Model model) {
+	public String listAllEmployees(Model model) {
 		List<Employee> employees = employeeRepository.findAll();
 		model.addAttribute("employees", employees);
 		return "employeeList";
@@ -113,4 +113,19 @@ public class EmployeeController {
 		return "employeeList";
 	}
 
+	//detailed info about employee:
+	@RequestMapping(path = "/details/{id}", method = RequestMethod.GET)
+	public String detailedEmployeeInfo(Model model, @PathVariable Long id) {
+		Employee employee = null;
+		employee = employeeRepository.findOne(id);
+		if(employee==null){
+			return "redirect:/employee";
+		}
+		System.out.println(employee.toString());
+		model.addAttribute("employee", employee);
+		return "employeeDetails";
+	}
+
+	
+	
 }

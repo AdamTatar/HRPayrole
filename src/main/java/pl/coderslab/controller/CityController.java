@@ -1,5 +1,9 @@
 package pl.coderslab.controller;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.validation.Valid;
@@ -12,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import pl.coderslab.model.City;
+import pl.coderslab.model.Country;
 import pl.coderslab.repository.CityRepository;
 
 @Controller
@@ -44,6 +49,27 @@ public class CityController {
 		model.addAttribute("cities", cities);
 		return "cityList";
 	}
+	
+	@RequestMapping(path = "/addFromFile",method = RequestMethod.GET)
+	public String addListOfCitiesFromFile() {
+		try {
+			List<String> citiesString = Files.readAllLines(Paths.get("cities.txt"));
+			List<City> cities = new ArrayList<>();
+			Long id = 1L;
+			for(Integer i = 0; i < citiesString.size();i++) {
+				City city = new City();
+				city.setName(citiesString.get(i));
+				cities.add(city);
+			}
+			cityRepository.save(cities);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return "cityList";
+	}
+	
+	
 }
 	
 
