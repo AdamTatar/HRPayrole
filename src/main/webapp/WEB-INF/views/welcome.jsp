@@ -2,11 +2,11 @@
 <%@	taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
-<%@include  file="../WEB-INF/views/header.jsp" %>
-	<h2>HRPayrole</h2>
-	<a href="/HRPayrole/departments/add">Dodaj departament</a>
-	<br>
-	
+<%@include  file="header.jsp" %>
 
 
-<%@include  file="../WEB-INF/views/footer.jsp" %>
+<div class="container">
+	  <h2>Witaj ${user.nick}!</h2>
+</div>
+
+<%@include  file="footer.jsp" %>

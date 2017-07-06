@@ -1,23 +1,25 @@
 package pl.coderslab.model;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import org.hibernate.validator.constraints.NotBlank;
-
 @Entity
-@Table(name = "test")
-public class Test {
+@Table(name = "cities")
+public class City {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
-
+	
+	@Column(unique = true)
 	private String name;
 
+	// getters and setter
+	
 	public Long getId() {
 		return id;
 	}
@@ -33,8 +35,5 @@ public class Test {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	
-	
-	
+
 }
