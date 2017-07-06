@@ -8,59 +8,19 @@
 	 <form:form method="post" modelAttribute="employee">
 	 <form:errors path="*" element="div"/>
 	 
-	 	<div class="form-group">
-	 		<label for="name">Imię:</label>
-	 		<form:input path="firstName" autofocus="true" class="form-control" id="name" required="true"/>
-    	</div>
-
-	 	<div class="form-group">
-	 		<label for="name2">Drugie imię:</label>
-	 		<form:input path="secondName" class="form-control" id="name2" />
-    	</div>
-
-	 	<div class="form-group">
-	 		<label for="lastname">Nazwisko:</label>
-	 		<form:input path="lastName" class="form-control" id="lastname" required="true"/>
-    	</div>
-
-	 	<div class="form-group">
-	 		<label for="pesel">PESEL:</label>
-	 		<form:input type="number" path="pesel" class="form-control" id="pesel" required="true"/>
-    	</div>
-
-	 	<div class="form-group">
-	 		<label for="bDate">Data urodzenia:</label>
-	 		<form:input type="date" path="birthDate" class="form-control" id="bDate"/>
-    	</div>
-
-    	<div class="form-group">
-      		<label for="sel1">Miasto urodzenia:</label>
-     		 <form:select path="birthPlace.id" items="${cities}" itemLabel="name" itemValue="id" class="form-control" id="sel1"/>
-	    </div>
-
-	 	<div class="form-group">
-	 		<label for="salary">Pensja podstawowa:</label>
-	 		<form:input type="number" path="salary" class="form-control" id="salary"/>
-    	</div>
-
-	 	<div class="form-group">
-	 		<label for="bonus">Premia stała:</label>
-	 		<form:input type="number" path="bonus" class="form-control" id="bonus"/>
-    	</div>
-
-    	<div class="form-group">
-      		<label for="dept">Departament:</label>
-     		 <form:select path="department.id" items="${departments}" itemLabel="name" itemValue="id" class="form-control" id="dept"/>
-	    </div>
-
-	 	<div class="form-group">
-	 		<label for="empDate">Data zatrudnienia:</label>
-	 		<form:input type="date" path="dateOfEmployment" class="form-control" id="empDate"/>
-    	</div>
-
+	 		<form:input path="firstName" type="hidden"/>
+	 		<form:input path="secondName" type="hidden"/>
+	 		<form:input path="lastName" type="hidden"/>
+	 		<form:input path="pesel" type="hidden"/>
+	 		<form:input path="birthDate" type="hidden"/>
+	 		<form:input path="salary" type="hidden"/>
+	 		<form:input path="bonus" type="hidden"/>
+	 		<form:input path="department.id" type="hidden"/>
+	 		<form:input path="dateOfEmployment" type="hidden"/>
+	 
 	 	<div class="form-group">
 	 		<label for="adres1">Ulica, nr domu, nr mieszkania:</label>
-	 		<form:input path="address1" class="form-control" id="adres1"/>
+	 		<form:input path="address1"  autofocus="true" class="form-control" id="adres1"/>
     	</div>
 
 	 	<div class="form-group">
@@ -83,7 +43,6 @@
      		 <form:select path="taxOffice.id" items="${taxOffices}" itemLabel="name" itemValue="id" class="form-control" id="tax"/>
 	    </div>
 
-    	
 	 	<div class="form-group">
 	 		<label for="phone">Telefon:</label>
 	 		<form:input path="phoneNumber" class="form-control" id="phone"/>
