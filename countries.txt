@@ -1,0 +1,194 @@
+	Afganistan 	Afghanistan location map.svg 	Azja 	Kabul 	652 230 	30 419 928[1] 	45,74
+2 	 Albania 	Albania location map.svg 	Europa 	Tirana 	28 748 	3 195 000[2] 	111,1
+3 	 Algieria 	Algeria location map.svg 	Afryka 	Algier 	2 381 741 	34 178 188 	14,3
+4 	 Andora 	Andorra location map.svg 	Europa 	Andora 	468 	84 525 	180,6
+5 	 Angola 	Angola location map.svg 	Afryka 	Luanda 	1 246 700 	17 312 000 	14
+6 	 Antigua i Barbuda 	
+7 	 Arabia Saudyjska 	Saudi Arabia location map.svg 	Azja 	Rijad 	2 149 690 	28 686 633 	13,34
+8 	 Argentyna 	Argentina location map.svg 	Ameryka Południowa 	Buenos Aires 	2 766 890 	40 913 584 	15
+9 	 Armenia 	Armenia location map.svg 	Azja 	Erywań 	29 800[3] 	3 259 100[4] 	108,4
+10 	 Australia 	Australia location map.svg 	Australia i Oceania 	Canberra 	7 686 850 	22 343 203 	2,8
+11 	 Austria 	Austria location map.svg 	Europa 	Wiedeń 	83 871 	8 402 549 	100,1
+12 	 Azerbejdżan 	Azerbaijan adm location map.svg 	Azja 	Baku 	86 600 	9 493 600[5] 	109
+13 	 Bahamy 	Bahamas location map.svg 	Ameryka Północna 	Nassau 	13 940 	307 451 	21
+14 	 Bahrajn 	Bahrain location map.svg 	Azja 	Manama 	620 	1 323 535 	1189
+15 	 Bangladesz 	Bangladesh location map.svg 	Azja 	Dhaka 	144 000 	162 221 000 	1099
+16 	 Barbados 	Barbados location map.svg 	Ameryka Północna 	Bridgetown 	431[6] 	281 968[7] 	654
+17 	 Belgia 	Belgium location map.svg 	Europa 	Bruksela 	30 528 	10 584 534 	346
+18 	 Belize 	Belize location map.svg 	Ameryka Północna 	Belmopan 	22 966 	266 440 	11,6
+19 	 Benin 	Benin location map.svg 	Afryka 	Porto-Novo 	112 620 	8 295 000 	74
+20 	 Bhutan 	Bhutan location map.svg 	Azja 	Thimphu 	47 000 	682 321 	14
+21 	 Białoruś 	Belarus adm location map.svg 	Europa 	Mińsk 	207 600 	9 474 200[8] 	46
+22 	 Boliwia 	Bolivia location map.svg 	Ameryka Południowa 	Sucre (stolica konstytucyjna), La Paz (siedziba rządu) 	1 098 580 	9 248 000 	8,4
+23 	 Bośnia i Hercegowina 	Bosnia and Herzegovina location map.svg 	Europa 	Sarajewo 	51 129 	4 590 310 	86
+24 	 Botswana 	Botswana location map.svg 	Afryka 	Gaborone 	600 370 	1 842 000 	3
+25 	 Brazylia 	Brazil location map.svg 	Ameryka Południowa 	Brasilia 	8 511 965[9] 	201 103 330[10] 	23
+26 	 Brunei 	Brunei location map.svg 	Azja 	Bandar Seri Begawan 	5770 	381 371 	66
+27 	 Bułgaria 	Bulgaria location map.svg 	Europa 	Sofia 	110 910 	7 531 000[11][12] 	67,9
+28 	 Burkina Faso 	Burkina Faso location map.svg 	Afryka 	Wagadugu 	274 200 	15 746 232 	57,4
+29 	 Burundi 	Burundi location map.svg 	Afryka 	Bużumbura 	27 830 	8 691 000 	312
+30 	 Chile 	Chile location map.svg 	Ameryka Południowa 	Santiago 	756 950 	16 601 707 	22,1
+31 	 Chiny 	China edcp location map.svg 	Azja 	Pekin 	9 596 960 	1 347 374 752[13] 	140,4
+32 	 Chorwacja 	Croatia location map.svg 	Europa 	Zagrzeb 	56 542 	4 437 460 	79
+33 	 Cypr 	Cyprus location map.svg 	Azja 	Nikozja 	9250 	794 600 	132
+34 	 Czad 	Chad location map.svg 	Afryka 	Ndżamena 	1 284 000 	10 758 945[14] 	7,5
+35 	 Czarnogóra 	Montenegro location map.svg 	Europa 	Podgorica 	13 812 	672 180[15] 	48,7
+36 	 Czechy 	Czech Republic location map.svg 	Europa 	Praga 	78 866 	10 532 770[16] 	133
+37 	 Dania 	Denmark location map.svg 	Europa 	Kopenhaga 	43 098,31[17] (2 210 579 z Grenlandią i Wyspami Owczymi) 	5 540 241[18] 	128,4
+38 	 Demokratyczna Republika Konga 	Democratic Republic of the Congo location map.svg 	Afryka 	Kinszasa 	2 344 858 	66 515 000 	28
+39 	 Dominika 	Dominica location map.svg 	Ameryka Północna 	Roseau 	754 	72 000 	91,5
+40 	 Dominikana 	Dominican Republic location map.svg 	Ameryka Północna 	Santo Domingo 	48 730 	9 049 595 	185
+41 	 Dżibuti 	Djibouti location map.svg 	Afryka 	Dżibuti 	23 200[19] 	506 221[20] 	21
+42 	 Egipt 	Egypt location map.svg 	Afryka, Azja 	Kair 	1 001 450 	80 471 869[21] 	80
+43 	 Ekwador 	Ecuador location map.svg 	Ameryka Południowa 	Quito 	283 560 	13 928 000 	49
+44 	 Erytrea 	Eritrea location map.svg 	Afryka 	Asmara 	121 320 	5 028 000 	41
+45 	 Estonia 	Estonia location map.svg 	Europa 	Tallinn 	45 226 	1 340 122[22] 	29
+46 	 Etiopia 	Ethiopia location map.svg 	Afryka 	Addis Abeba 	1 127 127 	81 238 000 	72
+47 	 Fidżi 	Fiji location map.svg 	Australia i Oceania 	Suva 	18 272 	849 000[23] 	46,5
+48 	 Filipiny 	Philippines location map.svg 	Azja 	Manila 	300 000 	92 681 000 	309
+49 	 Finlandia 	Finland location map.svg 	Europa 	Helsinki 	338 145 	5 313 026 	15,71
+50 	 Francja 	France location map-Regions and departements-2016.svg 	Europa 	Paryż 	675 417 	66 000 000[24] 	98
+51 	 Gabon 	Gabon location map.svg 	Afryka 	Libreville 	267 667 	1 454 867 	5,4
+52 	 Gambia 	Gambia location map.svg 	Afryka 	Bandżul 	11 295 	1 690 000 	150
+53 	 Ghana 	Ghana location map.svg 	Afryka 	Akra 	239 460 	23 000 000 	96
+54 	 Grecja 	Greece location map.svg 	Europa 	Ateny 	131 957 	11 216 708 	85,01
+55 	 Grenada 	Grenada location map.svg 	Ameryka Północna 	Saint George’s 	344 	89 258 	262
+56 	 Gruzja 	Georgia location map.svg 	Azja 	Tbilisi 	69 700[25] 	4 630 841 	67
+57 	 Gujana 	Guyana location map.svg 	Ameryka Południowa 	Georgetown 	214 970 	769 095 	3,6
+58 	 Gwatemala 	Guatemala location map.svg 	Ameryka Północna 	Gwatemala 	108 890 	12 013 907 	119
+59 	 Gwinea 	Guinea location map.svg 	Afryka 	Konakry 	245 857 	9 950 670 	40,5
+60 	 Gwinea Bissau 	Guinea-Bissau location map.svg 	Afryka 	Bissau 	36 120 	1 475 000 	41
+61 	 Gwinea Równikowa 	Equatorial Guinea location map.svg 	Afryka 	Malabo 	28 051,46 	616 459 	22,0
+62 	 Haiti 	Haiti location map.svg 	Ameryka Północna 	Port-au-Prince 	27 750 	8 925 000[26] 	322
+63 	 Hiszpania 	Spain location map.svg 	Europa 	Madryt 	504 645 	47 150 819 	93,43
+64 	 Holandia 	Netherlands location map.svg 	Europa 	Amsterdam (stolica konstytucyjna), Haga (stolica administracyjna) 	41 526 	16 509 303 	397,6
+65 	 Honduras 	Honduras location map.svg 	Ameryka Północna 	Tegucigalpa 	112 090 	7 325 000 	65
+66 	 Indie 	India location map.svg 	Azja 	Nowe Delhi 	3 287 590 	1 166 079 217 	354,7
+67 	 Indonezja 	Indonesia location map.svg 	Azja 	Dżakarta 	1 919 440 	242 968 342 	124
+68 	 Irak 	Iraq location map.svg 	Azja 	Bagdad 	438 317 	30 399 572 	69,54
+69 	 Iran 	Iran location map.svg 	Azja 	Teheran 	1 648 195[27] 	70 495 782[27] 	43[27]
+70 	 Irlandia 	Ireland location map.svg 	Europa 	Dublin 	70 273 	4 581 269[28] 	63
+71 	 Islandia 	Iceland location map.svg 	Europa 	Reykjavík 	103 125 	306 694[29] 	2,5
+72 	 Izrael 	Israel location map.svg 	Azja 	Jerozolima[30][31] 	22 072 	7 653 600[32] 	351
+73 	 Jamajka 	Jamaica location map.svg 	Ameryka Północna 	Kingston 	10 991 	2 700 000 	245
+74 	 Japonia 	Japan location map with side map of the Ryukyu Islands.svg 	Azja 	Tokio 	377 835 	126 475 664[33] 	336,3
+75 	 Jemen 	Yemen location map.svg 	Azja 	Sana 	527 968 	23 495 361[34] 	44
+76 	 Jordania 	Jordan location map.svg 	Azja 	Amman 	92 300 	5 759 732 	62
+77 	 Kambodża 	Cambodia location map.svg 	Azja 	Phnom Penh 	181 040 	13 388 910 	75
+78 	 Kamerun 	Cameroon location map.svg 	Afryka 	Jaunde 	475 440 	18 100 000 	38
+79 	 Kanada 	Canada location map.svg 	Ameryka Północna 	Ottawa 	9 976 140 	34 110 000 	3,41
+80 	 Katar 	Qatar location map.svg 	Azja 	Doha 	11 437 	928 635 	81
+81 	 Kazachstan 	Kazakhstan location map.svg 	Azja, Europa 	Astana 	2 717 300 	15 399 437 	5,67
+82 	 Kenia 	Kenya location map.svg 	Afryka 	Nairobi 	582 650 	37 953 840 	68,6
+83 	 Kirgistan 	Kyrgyzstan location map.svg 	Azja 	Biszkek 	198 500 	5 357 000 	27
+84 	 Kiribati 	
+85 	 Kolumbia 	Colombia location map.svg 	Ameryka Południowa 	Bogota 	1 139 825[35] 	45 730 834[36] 	40,1
+86 	 Komory 	Comoros location map.svg 	Afryka 	Moroni 	2170 	671 247 	309
+87 	 Kongo 	Congo location map.svg 	Afryka 	Brazzaville 	342 000 	3 756 000 	11,2
+88 	 Korea Południowa 	South Korea location map.svg 	Azja 	Seul 	99 720[37] 	50 062 000[37] 	500
+89 	 Korea Północna 	North Korea location map.svg 	Azja 	Pjongjang 	120 540 	22 757 275[38] 	188,8
+90 	 Kostaryka 	Costa Rica location map.svg 	Ameryka Północna 	San José 	51 100 	4 325 000 	85
+91 	 Kuba 	Cuba location map.svg 	Ameryka Północna 	Hawana 	110 860 	11 424 000 	103
+92 	 Kuwejt 	Kuwait location map.svg 	Azja 	Kuwejt 	17 818 	2 597 000 	122
+93 	 Laos 	Laos location map.svg 	Azja 	Wientian 	236 800 	6 521 998 	26
+94 	 Lesotho 	Lesotho location map.svg 	Afryka 	Maseru 	30 355 	2 031 348 	67
+95 	 Liban 	Lebanon location map.svg 	Azja 	Bejrut 	10 452 	3 925 502 	375,5
+96 	 Liberia 	Liberia location map.svg 	Afryka 	Monrovia 	111 370 	3 200 000 	29
+97 	 Libia 	Libya location map.svg 	Afryka 	Trypolis 	1 759 540 	6 310 434 	3,6
+98 	 Liechtenstein 	Liechtenstein location map.svg 	Europa 	Vaduz 	160 	34 761[39] 	215
+99 	 Litwa 	Lithuania location map.svg 	Europa 	Wilno 	65 200[40] 	3 225 346[41] 	52
+100 	 Luksemburg 	Luxembourg location map - cantons.svg 	Europa 	Luksemburg 	2586 	474 413 	183,45
+101 	 Łotwa 	Latvia location map.svg 	Europa 	Ryga 	64 589 	2 224 400[42] 	35
+102 	 Macedonia 	Macedonia location map.svg 	Europa 	Skopje 	25 713 	2 061 000 	81
+103 	 Madagaskar 	Madagascar location map.svg 	Afryka 	Antananarywa 	587 040 	20 653 556 	34,14
+104 	 Malawi 	Malawi location map.svg 	Afryka 	Lilongwe 	118 480 	13 600 000 	115
+105 	 Malediwy 	
+106 	 Malezja 	Malaysia location map.svg 	Azja 	Kuala Lumpur 	329 750 	27 730 000 	82,5
+107 	 Mali 	Mali2 location map.svg 	Afryka 	Bamako 	1 240 192 	12 666 987[44] 	10,2
+108 	 Malta 	Malta location map.svg 	Europa 	Valletta 	316 	403 532 	1277
+109 	 Maroko 	Morocco location map.svg 	Afryka 	Rabat 	446 550 	34 859 364 	78,1
+110 	 Mauretania 	Mauritania location map.svg 	Afryka 	Nawakszut 	1 030 700 	3 250 000 	3,2
+111 	 Mauritius 	Mauritius location map.svg 	Afryka 	Port Louis 	2045 	1 230 602 	601
+112 	 Meksyk 	Mexico location map.svg 	Ameryka Północna 	Meksyk 	1 972 550[45] 	112 336 538[46] 	56,9
+113 	 Mikronezja 	
+114 	 Mjanma 	Myanmar location map.svg 	Azja 	Naypyidaw 	678 500 	53 414 374 	78,7
+115 	 Mołdawia 	Moldova location map.svg 	Europa 	Kiszyniów 	33 843 	4 324 450 	128
+116 	 Monako 	
+117 	 Mongolia 	Mongolia location map 2.svg 	Azja 	Ułan Bator 	1 564 116 	2 736 800[47] 	1,75
+118 	 Mozambik 	Mozambique location map.svg 	Afryka 	Maputo 	801 590 	21 000 000 	26
+119 	 Namibia 	Namibia location map.svg 	Afryka 	Windhuk 	825 418 	2 089 000 	2
+120 	 Nauru 	
+121 	 Nepal 	Nepal location map.svg 	Azja 	Katmandu 	140 800 	28 635 000 	203
+122 	 Niemcy 	Germany location map.svg 	Europa 	Berlin 	357 114,22 	81 772 000[48] 	229
+123 	 Niger 	Niger location map.svg 	Afryka 	Niamey 	1 267 000 	15 306 252[11] 	12,1
+124 	 Nigeria 	Nigeria location map.svg 	Afryka 	Abudża 	923 768 	154 729 000[49] 	167,5
+125 	 Nikaragua 	Nicaragua location map.svg 	Ameryka Północna 	Managua 	129 494 	5 570 000 	43
+126 	 Norwegia 	Norway location map.svg 	Europa 	Oslo 	324 220 	4 769 000 	15
+127 	 Nowa Zelandia 	New Zealand location map.svg 	Australia i Oceania 	Wellington 	268 680 	4 393 500[50] 	16,35
+128 	 Oman 	Oman adm location map.svg 	Azja 	Maskat 	309 500 	3 312 000 	10,7
+129 	 Pakistan 	Pakistan adm location map.svg 	Azja 	Islamabad 	803 940 	176 242 949[51] 	219
+130 	 Palau 	
+131 	 Panama 	Panama location map.svg 	Ameryka Północna 	Panama 	78 200 	3 293 000 	42
+132 	 Papua-Nowa Gwinea 	Papua New Guinea location map.svg 	Australia i Oceania 	Port Moresby 	462 840 	5 932 000 	12,8
+133 	 Paragwaj 	Paraguay adm location map.svg 	Ameryka Południowa 	Asunción 	406 750 	6 670 000 	16,4
+134 	 Peru 	Peru location map.svg 	Ameryka Południowa 	Lima 	1 285 220 	29 181 000 	23
+135 	 Polska 	Poland location map.svg 	Europa 	Warszawa 	322 575[52] 	38 200 037[53] 	120,92
+136 	 Portugalia 	Portugal location map.svg 	Europa 	Lizbona 	92 391 	10 677 000[54] 	116
+137 	 Południowa Afryka 	South Africa location map.svg 	Afryka 	Pretoria (stolica egzekutywna) 	1 219 912 	48 783 000 	40
+138 	 Republika Środkowoafrykańska 	Central African Republic location map.svg 	Afryka 	Bangi 	622 984 	4 370 000 	7
+139 	 Republika Zielonego Przylądka 	Cape Verde location map.svg 	Afryka 	Praia 	4033 	499 796 	118
+140 	 Rosja 	Russia edcp location map.svg 	Azja, Europa 	Moskwa 	17 075 400 	142 914 136[55] 	8,4
+141 	 Rumunia 	Romania location map.svg 	Europa 	Bukareszt 	238 391 	22 215 421 	91
+142 	 Rwanda 	Rwanda location map.svg 	Afryka 	Kigali 	26 338 	10 186 000 	387
+143 	 Saint Kitts i Nevis 	
+144 	 Saint Lucia 	
+145 	 Saint Vincent i Grenadyny 	
+146 	 Salwador 	El Salvador location map.svg 	Ameryka Północna 	San Salvador 	21 040 	6 820 000 	324
+147 	 Samoa 	Samoa location map.svg 	Australia i Oceania 	Apia 	2944 	177 714 	60
+148 	 San Marino 	San Marino location map.svg 	Europa 	San Marino 	61,6 	31 817 	487
+149 	 Senegal 	Senegal location map.svg 	Afryka 	Dakar 	196 190 	12 521 851 	64
+150 	 Serbia 	Serbia adm location map.svg 	Europa 	Belgrad 	77 474 	7 498 001 	94,8
+151 	 Seszele 	
+152 	 Sierra Leone 	Sierra Leone location map.svg 	Afryka 	Freetown 	71 740 	6 150 000 	86
+153 	 Singapur 	Singapore location map.svg 	Azja 	Singapur 	692,7 	4 608 000 	6652
+154 	 Słowacja 	Slovakia location map.svg 	Europa 	Bratysława 	49 035 	5 455 000 	111
+155 	 Słowenia 	Slovenia location map.svg 	Europa 	Lublana 	20 273 	2 039 399[56] 	99
+156 	 Somalia 	
+157 	 Sri Lanka 	Sri Lanka location map.svg 	Azja 	Sri Dźajawardanapura Kotte 	65 610 	20 010 000 	320
+158 	 Stany Zjednoczone 	Usa edcp location map.svg 	Ameryka Północna 	Waszyngton 	9 373 967 	311 280 492[57] 	32,23
+159 	 Suazi 	Swaziland location map.svg 	Afryka 	Mbabane 	17 363 	1 138 227 	65,5
+160 	 Sudan 	Sudan location map.svg 	Afryka 	Chartum 	1 886 068 	30 894 000 	16,4
+161 	 Sudan Południowy 	
+162 	 Surinam 	Suriname location map.svg 	Ameryka Południowa 	Paramaribo 	163 270[59] 	476 000[60] 	2,9
+163 	 Syria 	Syria location map3.svg 	Azja 	Damaszek 	185 180 	19 748 000 	107
+164 	 Szwajcaria 	Switzerland location map.svg 	Europa 	brak oficjalnej stolicy, siedzibą rządu jest Berno 	41 290 	7 725 200 	186
+165 	 Szwecja 	Sweden location map.svg 	Europa 	Sztokholm 	449 964 	9 331 523 	20
+166 	 Tadżykistan 	Tajikistan location map.svg 	Azja 	Duszanbe 	143 100[61][62] 	7 100 000 	50
+167 	 Tajlandia 	Thailand location map.svg 	Azja 	Bangkok 	514 000[63] 	65 493 000[64] 	127
+168 	 Tanzania 	Tanzania location map.svg 	Afryka 	Dodoma 	945 087 	39 384 223 	42
+169 	 Timor Wschodni 	East Timor location map.svg 	Azja 	Dili 	15 007 	1 109 000 	74
+170 	 Togo 	Togo location map.svg 	Afryka 	Lomé 	56 785 	5 400 000 	95
+171 	 Tonga 	
+172 	 Trynidad i Tobago 	Trinidad and Tobago location map.svg 	Ameryka Południowa 	Port-of-Spain 	5128 	1 229 000 	206
+173 	 Tunezja 	Tunisian Republic location map.svg 	Afryka 	Tunis 	163 610 	10 384 000 	63,5
+174 	 Turcja 	Turkey location map.svg 	Azja, Europa 	Ankara 	783 562 	77 804 122 	92
+175 	 Turkmenistan 	Turkmenistan location map.svg 	Azja 	Aszchabad 	488 100 	5 180 000 	11
+176 	 Tuvalu 	
+177 	 Uganda 	Uganda location map.svg 	Afryka 	Kampala 	236 036 	32 369 558 	136
+178 	 Ukraina 	Ukraine adm location map.svg 	Europa 	Kijów 	603 700 	45 706 126[65] 	77
+179 	 Urugwaj 	Uruguay location map.svg 	Ameryka Południowa 	Montevideo 	176 220 	3 477 779 (2008) 	20
+180 	 Uzbekistan 	Uzbekistan location map.svg 	Azja 	Taszkent 	447 400 	27 610 000 	62
+181 	 Vanuatu 	Vanuatu location map.svg 	Australia i Oceania 	Port Vila 	12 189 	243 304 	20,0
+182 	 Watykan 	Vatican City location map.svg 	Europa 	Watykan 	0,44 	824 	1873
+183 	 Wenezuela 	Venezuela location map.svg 	Ameryka Południowa 	Caracas 	916 445 	30 102 382 	32,85
+184 	 Węgry 	Hungary location map.svg 	Europa 	Budapeszt 	93 030 	9 982 000[66] 	107
+185 	 Wielka Brytania 	United Kingdom location map.svg 	Europa 	Londyn 	244 820 	62 222 000[11] 	254,1
+186 	 Wietnam 	Vietnam location map.svg 	Azja 	Hanoi 	331 051,4[67] 	86 024 600[67] 	260[67]
+187 	 Włochy 	Italy location map.svg 	Europa 	Rzym 	301 230 	60 418 711[68] 	199,8
+188 	 Wybrzeże Kości Słoniowej 	Côte d'Ivoire location map.svg 	Afryka 	Jamusukro 	322 460 	18 373 000 	57
+189 	 Wyspy Marshalla 	
+190 	 Wyspy Salomona 	Solomon Islands location map.svg 	Australia i Oceania 	Honiara 	28 450 	552 000 	20
+191 	 Wyspy Świętego Tomasza i Książęca 	São Tomé and Príncipe location map.svg 	Afryka 	São Tomé 	1001 	193 410 	187
+192 	 Zambia 	Zambia location map.svg 	Afryka 	Lusaka 	752 614 	11 500 000 	15,3
+193 	 Zimbabwe 	Zimbabwe location map.svg 	Afryka 	Harare 	390 580 	12 383 000 	32
+194 	 Zjednoczone Emiraty Arabskie

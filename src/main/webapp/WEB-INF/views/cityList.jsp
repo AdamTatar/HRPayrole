@@ -24,6 +24,8 @@
 	    
 	    </tbody>
 	  </table>
+	  
+	  <input type="button" value="Cofnij" onClick="history.go(-1);return true;" class="btn">
 	</div>
 	
 <%@include  file="footer.jsp" %>	

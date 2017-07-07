@@ -33,5 +33,13 @@ public class AppController {
 		return "login";
 	}
 
-	
+	@RequestMapping(path = "/info", method = RequestMethod.GET)
+	public String info() {
+		return "info";
+	}
+
+	@RequestMapping(path = "/contact", method = RequestMethod.GET)
+	public String contact() {
+		return "contact";
+	}
 }

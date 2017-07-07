@@ -21,12 +21,13 @@
 	    <c:forEach items="${users}" var="user">
 		  <tr>
 			<td>${user.nick}</td>
-			<td>${user.email}</td>
+			<td><a href="mailto:${user.email}">${user.email}</a></td>
 			<td>${user.role}</td>
 		  </tr>
 		</c:forEach>
 	    
 	    </tbody>
 	  </table>
+	  <input type="button" value="Cofnij" onClick="history.go(-1);return true;" class="btn">
 	</div>
 <%@include  file="footer.jsp" %>
