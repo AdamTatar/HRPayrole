@@ -19,6 +19,7 @@
 	        <th>Premia</th>
 	        <th>Edycja</th>
 	        <th>Szczegóły</th>
+	        <th>Generuj dokument</th>
 	      </tr>
 	    </thead>
 	    <tbody>
@@ -33,6 +34,7 @@
 			<td>${emp.bonus}</td>
 			<td><a href="/HRPayrole/employee/edit/${emp.id}" class="btn btn-success btn-sm">Edytuj</a></td>
 			<td><a href="/HRPayrole/employee/details/${emp.id}" class="btn btn-info btn-sm">Szczegóły</a></td>
+			<td><a href="/HRPayrole/generateCertificate/${emp.id}" class="btn btn-warning btn-sm">Zaświadczenie</a></td>
 		  </tr>
 		</c:forEach>
 	    </tbody>
