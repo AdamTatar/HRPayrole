@@ -27,8 +27,8 @@
 	 		<label for="role">Rola:</label>
 	 		<form:input list="listaRol" path="role" class="form-control" id="role" required="true"/>
 			<datalist id="listaRol">
-			  <option value="Użytkownik">
-			  <option value="Administrator">
+			  <option value="Użytkownik"/>
+			  <option value="Administrator"/>
 			</datalist> 
     	</div>
 	 	

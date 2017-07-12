@@ -2,6 +2,7 @@
 <%@	taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
+<%@	page errorPage="error.jsp"%>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -73,12 +74,37 @@
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="/HRPayrole/">Strona
-						główna</a></li>
-				<li><a href="/HRPayrole/about">O
-						stronie</a></li>
-				<li><a href="/HRPayrole/info">Aplikacja
-						- informacje</a></li>
+				<li class="active"><a href="/HRPayrole/">Strona	główna</a></li>
+						
+		
+		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Edycja pracowników<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/HRPayrole/employee/add">Dodaj pracownika</a></li>
+          <li><a href="/HRPayrole/department/add">Dodaj departament</a></li>
+          <li><a href="/HRPayrole/taxOffice/add">Dodaj Urząd Skarbowy</a></li>
+          <li><a href="/HRPayrole/city/add">Dodaj miasto</a></li>
+          <li><a href="/HRPayrole/country/add">Dodaj państwo</a></li>
+          <li><a href="/HRPayrole/user/add">Dodaj użytkownika</a></li>
+        </ul>
+      </li>				
+						
+		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Generowanie dokumentów<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/HRPayrole/employee">Zaświadczenie o zatrudnieniu</a></li>
+          <li><a href="/HRPayrole/employee">Informacja o zarobkach</a></li>
+          <li><a href="/HRPayrole/employee">Zaświadczenie o stażu pracy</a></li>
+        </ul>
+      </li>	
+						
+						
+	<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Import danych<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/HRPayrole/taxOffice/addFromFile">Dodaj listę Urzędów Skarbowych</a></li>
+          <li><a href="/HRPayrole/taxOffice/addFromFile">Dodaj listę polskich miast</a></li>
+          <li><a href="/HRPayrole/taxOffice/addFromFile">Dodaj listę wszystkich państw</a></li>
+        </ul>
+      </li>
+				<li><a href="/HRPayrole/info">Aplikacja	- informacje</a></li>
 				<li><a href="/HRPayrole/contact">Kontakt</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
@@ -92,35 +118,52 @@
 	<div class="container-fluid text-center">
 		<div class="row content">
 			<div class="col-sm-2 sidenav">
-				<a href="/HRPayrole/country/add"><div
-						class="well">
-						<p>Dodaj kraj</p>
-					</div></a> <a href="/HRPayrole/city/add"><div
-						class="well">
-						<p>Dodaj miasto</p>
-					</div></a> <a href="/HRPayrole/company/add"><div
-						class="well">
-						<p>Dodaj firmę</p>
-					</div></a> <a href="/HRPayrole/employee/add"><div
-						class="well">
-						<p>Dodaj pracownika</p>
-					</div></a> <a href="/HRPayrole/department/add">
-					<div class="well">
-						<p>Dodaj departament</p>
-					</div>
-				</a>
-				
-				<a href="/HRPayrole/user/add">
-					<div class="well">
-						<p>Dodaj użytkownika</p>
-					</div>
-				</a>
+				<a href="/HRPayrole/employee">
+		<div class="well">
+			<p>Pracownicy</p>
+		</div> 
+	</a> 
+	<a href="/HRPayrole/employee/search">
+		<div class="well">
+			<p>Szukaj pracowników</p>
+		</div> 
+	</a> 
+	<a href="/HRPayrole/payroll">
+		<div class="well">
+			<p>Lista płac</p>
+		</div> 
+	</a> 
+	<a href="/HRPayrole/department">
+		<div class="well">
+			<p>Departamenty</p>
+		</div>
+	</a> 
+	<a href="/HRPayrole/company">
+		<div class="well">
+			<p>Dane firmy</p>
+		</div>
+	</a> 
+	<a href="/HRPayrole/city">
+		<div class="well">
+			<p>Miasta</p>
+		</div>
+	</a> 
+	<a href="/HRPayrole/country">
+		<div class="well">
+			<p>Państwa</p>
+		</div>
+	</a> 
+	<a href="/HRPayrole/taxOffice">
+		<div class="well">
+			<p>Urzędy Skarbowe</p>
+		</div>
+	</a> 
+	<a href="/HRPayrole/user">
+		<div class="well">
+			<p>Użytkownicy</p>
+		</div>
+	</a> 
 
-				<a href="/HRPayrole/taxOffice/add">
-					<div class="well">
-						<p>Dodaj US</p>
-					</div>
-				</a>
 
 			</div>
 			<div class="col-sm-8 text-left">

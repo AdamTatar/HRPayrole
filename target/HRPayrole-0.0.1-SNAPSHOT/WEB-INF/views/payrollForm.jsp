@@ -6,18 +6,15 @@
 	
 	
 	<div class="container">
-	  <h2>Pracownicy</h2>
+	  <h2>Lista płac pracowników</h2>
 	  <table class="table table-hover">
 	   
 	    <thead>
 	      <tr>
 	        <th>Imię</th>
 	        <th>Nazwisko</th>
-	        <th>PESEL</th>
-	        <th>Departament</th>
-	        <th>Pensja</th>
-	        <th>Premia</th>
-	        <th>Edycja</th>
+	        <th>Nr konta</th>
+	        <th>Wypłata</th>
 	      </tr>
 	    </thead>
 	    <tbody>
@@ -26,16 +23,26 @@
 		  <tr>
 			<td>${emp.firstName}</td>
 			<td>${emp.lastName}</td>
-			<td>${emp.pesel}</td>
-			<td>${emp.department.name}</td>
+			<td>${emp.bankAccountNumber}</td>
 			<td>${emp.salary}</td>
-			<td>${emp.bonus}</td>
-			<td><a href="employee/edit/${emp.id}" class="btn btn-default">Edytuj</a></td>
+			<td>
+			
+			</td>
 		  </tr>
 		</c:forEach>
 	    </tbody>
 	  </table>
-	  <input type="button" value="Cofnij" onClick="history.go(-1);return true;" class="btn">
+	  
+		 <form:form method="post" modelAttribute="employees">
+		 	<div class="form-group"></div>
+	    	
+			<input type="submit" value="Eksportuj do xml" class="btn btn-success">
+			<input type="button" value="Cofnij" onClick="history.go(-1);return true;" class="btn">
+			
+		</form:form> 
+	  
+	  
+	  
 	</div>
 	
 	

@@ -11,6 +11,16 @@
 			<p>Pracownicy</p>
 		</div> 
 	</a> 
+	<a href="/HRPayrole/employee/search">
+		<div class="well">
+			<p>Szukaj pracowników</p>
+		</div> 
+	</a> 
+	<a href="/HRPayrole/payroll">
+		<div class="well">
+			<p>Lista płac</p>
+		</div> 
+	</a> 
 	<a href="/HRPayrole/department">
 		<div class="well">
 			<p>Departamenty</p>
@@ -41,9 +51,7 @@
 </div>
 </div>
 
-<!-- <footer class="container-fluid text-center">
-	<p>Dziękuję za skorzystanie z aplikacji!</p>
-</footer> -->
+
 
 </body>
 </html>

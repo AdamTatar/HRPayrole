@@ -88,7 +88,13 @@
         </ul>
       </li>				
 						
-		
+		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Generowanie dokumentów<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/HRPayrole/employee">Zaświadczenie o zatrudnieniu</a></li>
+          <li><a href="/HRPayrole/employee">Informacja o zarobkach</a></li>
+          <li><a href="/HRPayrole/employee">Zaświadczenie o stażu pracy</a></li>
+        </ul>
+      </li>	
 						
 						
 	<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Import danych<span class="caret"></span></a>

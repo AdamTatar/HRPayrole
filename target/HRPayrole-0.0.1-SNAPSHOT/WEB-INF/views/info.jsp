@@ -6,21 +6,21 @@
 
 
 <div class="container">
-	  <h2>Departamenty</h2>
+	  <h2>Informacje o aplikacji</h2>
 	  <table class="table table-hover">
 	   
 	    <thead>
 	      <tr>
-	        <th>Departament</th>
+	        <th>Ficzer</th>
+	        <th>Opis</th>
 	      </tr>
 	    </thead>
 	    <tbody>
 	    
-	    <c:forEach items="${departments}" var="dept">
 		  <tr>
-			<td>${dept.name}</td>
+			<td>Gererowanie Listy Płac</td>
+			<td>Apliakcja generuje plik xml z listą płac</td>
 		  </tr>
-		</c:forEach>
 	    
 	    </tbody>
 	  </table>
